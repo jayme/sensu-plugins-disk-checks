@@ -5,6 +5,14 @@ This CHANGELOG follows the format listed [here](https://github.com/sensu-plugins
 
 ## [Unreleased]
 
+### Changed
+- bumped runtime dependency of `sys-filesystem` from `1.1.7` to `1.2.0` (majormoses) (@dependabot)
+- bumped dev dependency of `bundler` from `~> 1.7` to `~> 2.0` (@majormose)- bumped runtime dependency of `sys-filesystem` from `1.1.7` to `1.2.0` (m
+ajormoses) (@dependabot)
+- bumped dev dependency of `bundler` from `~> 1.7` to `~> 2.0` (@majormose
+s)
+- bumped dev dependancy of `rubocop` from `~> 0.51.0` to `~> 0.57.0` (@dep
+
 ## [5.0.0] - 2019-04-10
 ### Breaking Changes
 - Update minimum required ruby version to 2.3. Drop unsupported ruby versions.
